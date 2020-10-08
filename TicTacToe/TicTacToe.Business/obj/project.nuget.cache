@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jYzUVIUAGXgyyBh2DLBDtgg3c84yCtExKGlJjXPfAZjzUsPNssQ+Jkzvlxf8I1zT6jVhLH7XH1dzteUWrYw8Jg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\astudd\\Documents\\CodeExam\\FullStack\\Git\\tictactoe-code-exam\\TicTacToe\\TicTacToe.Business\\TicTacToe.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\astudd\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\astudd\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
