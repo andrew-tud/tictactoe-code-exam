@@ -6,7 +6,7 @@ Congratulations in passing our initial screening! The next step is to take the c
 
 This code exam should not take you more than 6 hours to code. It might even take you less than 4 hours to code, depending on your skill level since we already created the TicTacToe Business Logic for you to investigate and call. No need to create your own TicTacToe Business Logic. So you might ask, what will you program? If you read the PDF instructions, we are asking you to simply create the unit test for the Business Logic and create the presentation layer in Angular. Of course, you also need to study the Business Logic to know how to pass the json payload.    
 
-Thank you for considering the code exam and we look forward to evaluate your source code. Happy Coding!\
+Thank you for considering the code exam and we look forward to evaluate your source code. Happy Coding!
   
 Best Regards,\
 CONAN Development Team   
