@@ -8,7 +8,7 @@ This code exam should not take you more than 6 hours to code. It might even take
 
 Thank you for considering the code exam and we look forward to evaluate your source code. Happy Coding!\
   
-Best Regards,
+Best Regards,\
 CONAN Development Team   
 
 # Setup Guide
