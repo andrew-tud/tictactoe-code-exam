@@ -1,6 +1,6 @@
 # tictactoe-code-exam Introduction
 
-Hi, Applicant!    
+Hi, Job Applicant!    
 
 Congratulations on passing our initial screening! The next step is to take the code exam. We have prepared this code exam to prove you’re fit for the job. Whether you’re an up-and-coming or an established Senior Software Developer, this code exam will test your skills in Front-End Development and C# Development. Anyone who is great in programming can take this code exam.    
 
