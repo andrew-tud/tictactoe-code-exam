@@ -4,7 +4,7 @@ Hi, Job Applicant!
 
 Congratulations on passing our initial screening! The next step is to take the code exam. We have prepared this code exam to prove you’re fit for the job. Whether you’re an up-and-coming or an established Senior Software Developer, this code exam will test your skills in Front-End Development and C# Development. Anyone who is great in programming can take this code exam.    
 
-No need to create your own TicTacToe Business Logic. So you might ask, what will you program? If you read the PDF instructions, we are asking you to simply create the unit test for the Business Logic and create the presentation layer in Angular. Of course, you also need to study the Business Logic to know what json payload to pass.    
+No need to create your own TicTacToe Business Logic. So you might ask, what will you program? If you read the PDF instructions, we are asking you to simply implement IOC, create the unit test for the Business Logic and create the presentation layer in Angular. Of course, you also need to study the Business Logic to know what json payload to pass.    
 
 Thank you for considering the code exam and we look forward to evaluate your source code. Happy Coding!
   
