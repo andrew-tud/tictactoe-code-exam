@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
@@ -12,15 +12,15 @@ namespace TicTacToe.API.Controllers
     public class GameController : ApiController
     {
         private readonly IGame _iGame;
-        public GameController(IGame iGame)
+        public GameController()
         {
-            _iGame = iGame;
+            //To IOC
         }
 
-        // POST api/values
         public Player Post([FromBody] List<Position> positions)
         {
-            return _iGame.Play(positions);
+            TicTacToe.Business.TicTacToe ticTacToe = new TicTacToe.Business.TicTacToe();
+            return ticTacToe.Play(positions);
         }
     }
 }
